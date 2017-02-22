@@ -1,10 +1,21 @@
-PesquisaOperacional
+🇧🇷 Pesquisa Operacional
 ===================
 
-Inventory Location
+Seja bem vindo ao meu repositório de Pesquisa Operacional.
 
-Instâncias de Teste utilizadas na dissertação.
+Aqui ficarão hospedados meu currículo, posters, trabalhos publicados e apresentados, dados e modelos implementados.
 
-Gustavo Cunha de Bittencourt
-COPPE/UFRJ
-22/05/2014
+Um abraço,
+
+**Gustavo Bittencourt**
+
+
+# 🇺🇸 Operations Research
+
+Welcome to my Operations Research repository.
+
+Here I'll host my *curriculum vitae* (CV), posters, published and presented works, data and implemented models.
+
+Best regards,
+
+**Gustavo Bittencourt**
